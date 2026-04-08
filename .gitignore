@@ -1,0 +1,5 @@
+# Ignore assemblers and compilers
+dasm/*
+
+# Ignore binary and auto generated files
+*.rom
