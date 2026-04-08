@@ -1,4 +1,5 @@
 # Ignore assemblers and compilers
+Second\ Generation/Atari\ 2600/dasm/
 dasm/*
 
 # Ignore binary and auto generated files
