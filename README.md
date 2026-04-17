@@ -1,5 +1,8 @@
 # A Game for ~~Every~~ Some Consoles
 
+> [!WARNING]
+> Incomplete. Project under working.
+
 ## About
 
 Project aimed at learning more about low-level development, processor architecture and game design throughout history.
