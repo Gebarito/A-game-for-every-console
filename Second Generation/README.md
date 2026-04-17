@@ -26,6 +26,7 @@ Inspired in a minigame of california games.
 
 ## Docs
 - https://www.slideshare.net/slideshow/programao-para-atari-2600/9029368 (pt-br)
-- https://www.randomterrain.com/atari-2600-memories-tutorial-andrew-davie-01.html
-- https://www.randomterrain.com/atari-2600-lets-make-a-game-spiceware-01.html
-- https://atariage.com/
+- https://www.randomterrain.com/atari-2600-memories-tutorial-andrew-davie-01.html (eng)
+- https://www.randomterrain.com/atari-2600-lets-make-a-game-spiceware-01.html (eng)
+- https://atariage.com/ (homebrew forum)
+- https://chibiakumas.com/ (old: www.learnasm.net)
